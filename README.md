@@ -1,1 +1,1 @@
-# glx
+# The GL CDN
