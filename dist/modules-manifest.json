@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/main.80df7c7ddf52568f7247.min.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/main.e00070ee0680a3a3507c.min.js",
+    "pdfjsWorker.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/pdfjsWorker.e344a9c09610100b9acb.min.js",
+    "446.min.css": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/446.726beec254ae63cc78ee.min.css",
+    "446.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/446.3c0eacf33fc25320bf93.min.js",
+    "537.min.css": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/537.016e7da9fa160b5c82ba.min.css",
+    "537.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/537.d5c51f424334dd54264d.min.js",
+    "718.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/718.9f893791822f64d3cfb1.min.js",
+    "259.min.css": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/259.d44c1fe927b2bca3d0e3.min.css",
+    "259.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/259.3714c04206ef418409ae.min.js",
+    "865.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/865.8b115767c947bb4a5634.min.js",
+    "679.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/679.b61899ce784978490c56.min.js",
+    "930.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/930.ffc786686994734acd42.min.js",
+    "397.min.css": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/397.d44c1fe927b2bca3d0e3.min.css",
+    "397.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/397.883eba91d5d5416d074e.min.js",
+    "452.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/452.183ca5b8ece2141b96b6.min.js",
+    "742.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/742.1d1b64329b4d0fccab98.min.js",
+    "821.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/821.1921d00d789f97c78dd4.min.js",
+    "527.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/527.dd5aefd5b611fc94351e.min.js",
+    "271.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/271.402aad23027fb3fa0332.min.js",
+    "6.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/6.7850c1ef50830a11ef13.min.js",
+    "343.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/343.cca65b616251b26e4d1c.min.js",
+    "789.min.css": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/789.333ea2aad53c35e32f2f.min.css",
+    "789.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/789.0f04268c5318e6304209.min.js",
+    "840.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/840.34c47e419586c3964d0e.min.js",
+    "174.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/174.690ceb51d7c0e2f044ee.min.js",
+    "321.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/321.ebe3b0b5dc025a981b74.min.js",
+    "144.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/144.df7915ebdc015008741b.min.js",
+    "739.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/739.6f0431720ee7b45ba28b.min.js",
+    "835.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/835.712cfe5b704d32dec455.min.js",
+    "903.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/903.6971e35c0f7246a63d96.min.js",
+    "488.min.js": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/488.f035901168de9296e7d0.min.js",
+    "i18n/vi.json": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/i18n/vi.39feaf1e9deba1d9962e08a31e5855cd.json",
+    "root.html": "https://cdn.jsdelivr.net/gh/gl-cdn/static@v1.1.14/dist/root.html"
+  },
+  "entrypoints": [
+    "main.80df7c7ddf52568f7247.min.css",
+    "main.e00070ee0680a3a3507c.min.js"
+  ]
+}
